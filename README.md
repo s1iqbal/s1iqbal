@@ -7,7 +7,7 @@
 
 
 ## ⌨️ A bit more about me...
-<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="250"> 
+<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="300"> 
 
 ```javascript
 const saad_iqbal: UserInterface = {
