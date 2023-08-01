@@ -29,7 +29,6 @@ const saad_iqbal: UserInterface = {
 
 ## 💻 What I've worked with
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1iqbal&layout=compact&theme=radical" width="230"> 
-<img align='left' src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="20"> 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
