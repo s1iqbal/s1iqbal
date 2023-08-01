@@ -6,7 +6,7 @@
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
 
 
-### <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="50"> A bit about me...  
+### <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30"> A bit about me...  
 
 ```javascript
 const saad_iqbal: UserInterface = {
