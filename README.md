@@ -1,4 +1,5 @@
-<h2> Hi, I'm Saad Iqbal</h2>
+<h2> Hi, I'm Sal</h2>
+<p>but my real name is Nathan. I've been a problem-solving enthusiast since I can remember. In my spare time, I try to learn as much as I can. You can often find me chatting and helping like-minded members of various online communities.  I'm always open to new & enticing problems to solve so let’s connect at <a href="https://saadiqbal.web.app/contact"></a>.</p>
 <img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
 <p>Full Stack Engineer</p>
 
@@ -6,7 +7,7 @@
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
 
 
-### A bit about me...  
+### A bit more about me...  
 
 ```javascript
 const saad_iqbal: UserInterface = {
@@ -21,7 +22,5 @@ const saad_iqbal: UserInterface = {
   interests: ["coding", "gaming", "football", "music", "gym"]
 }
 ```
-
-<em><b>I am a huge fan of talking about tech and connecting with like-minded people</b> so if you want to say <b>hi, I'll be happy to collaborate or talk!</b></em>
 
 ---
