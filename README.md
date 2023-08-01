@@ -49,5 +49,7 @@ const saad_iqbal: UserInterface = {
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1iqbal&layout=compact&theme=radical" width="230"> 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1iqbal&layout=compact&theme=radical)](https://github.com/s1iqbal/github-readme-stats)
