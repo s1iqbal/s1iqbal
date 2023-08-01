@@ -6,9 +6,6 @@
 
 <p>I've been a problem-solving enthusiast since I can remember. In my spare time, I love learning and tutoring what I have learned to people seeking help at various communities.  I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a></p>
 
-
-
-
 ## ⌨️ A bit more about me...
 
 ```javascript
@@ -68,4 +65,6 @@ const saad_iqbal: UserInterface = {
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
+
+<img align='right' src="https://github-profile-trophy.vercel.app/?username=s1iqbal&theme=darkhub&row=1&column=1" width="230"> 
 
