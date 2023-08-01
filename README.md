@@ -26,6 +26,7 @@ const saad_iqbal: UserInterface = {
 
 ## 💻 What I've worked with
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1iqbal&layout=compact&theme=radical" width="230"> 
+<img align='right' src="https://github-profile-trophy.vercel.app/?username=s1iqbal&theme=darkhub&row=1&column=1" width="230"> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,5 +67,4 @@ const saad_iqbal: UserInterface = {
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-<img align='right' src="https://github-profile-trophy.vercel.app/?username=s1iqbal&theme=darkhub&row=1&column=1" width="230"> 
 
