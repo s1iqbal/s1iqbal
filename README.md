@@ -1,5 +1,5 @@
 <h2> Hi, I'm Sal 👨‍💻</h2>
-<p>but my real name is Saad. I've been a problem-solving enthusiast since I can remember. In my spare time, I try to learn as much as I can. You can often find me chatting and helping like-minded members of various online communities.  I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a></p> 
+<p>but my real name is Saad. I've been a problem-solving enthusiast since I can remember. In my spare time, I love learning and tutoring what I have learned to people seeking help at various communities.  I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a></p> 
 
 
 <img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230"> 
