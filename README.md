@@ -9,11 +9,11 @@
 ## ⌨️ A bit more about me...
 
 ```javascript
-const saad_iqbal: UserInterface = {
+const saad: UserInterface = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Golang", "Java"],
+  languages: ["Javascript", "Typescript", "HTML/CSS", "Golang", "Java", "English", "Urdu"],
   tools: {
-      frontend: "React, Context, Redux, TailWind, S(CSS), Storybook, Backstage",
+      frontend: "React, Context, Redux, TailWind, S(CSS), Storybook, Backstage", //refer below for more!
       backend: "Node, Nest.JS, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase"
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
