@@ -9,9 +9,9 @@
 ### <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="50"> A bit about me...  
 
 ```javascript
-const saad_iqbal = {
+const saad_iqbal: UserInterface = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Golang, Java],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Golang", "Java"],
   tools: {
       frontend: "React, Context, Redux, TailWind, S(CSS), Storybook, Backstage",
       backend: "Node, Nest.JS, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase"
