@@ -14,10 +14,10 @@ const saad_iqbal = {
   code: [Javascript, Typescript, HTML, CSS, Golang, Java],
   tools: {
       frontend: "React, Context, Redux, TailWind, S(CSS), Storybook, Backstage",
-      backend/cloud: "Node, Nest.JS, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase"
+      backend: "Node, Nest.JS, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase"
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am currently working on the odin Project and fullstack open using my own preferred technologies using Typescript, Vite, and Tailwind"
+  challenges: ["Odin Project", "Full Stack Open", `Hackathons`]
 }
 ```
 
