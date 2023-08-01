@@ -1,9 +1,9 @@
 <h2> Hi, I'm Saad Iqbal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="230">
-<p><em>Full Stack Engineer</em></p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
+<p><em>Full Stack Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-[![Linkedin: saad-iqbal-ryerson](https://img.shields.io/badge/-saad-iqbal-ryerson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-iqbal-ryerson/)](https://www.linkedin.com/in/saad-iqbal-ryerson/)
-[![GitHub s1iqbal](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/s1iqbal)
+[![Linkedin: s1iqbal](https://img.shields.io/badge/-saad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-iqbal-ryerson/)](https://www.linkedin.com/in/saad-iqbal-ryerson/)
+[![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
 
 
 ### <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="50"> A bit about me...  
