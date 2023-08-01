@@ -1,5 +1,5 @@
 <h2> Hi, I'm Saad</h2>
-<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
 <p><em>Full Stack Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: s1iqbal](https://img.shields.io/badge/-saad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-iqbal-ryerson/)](https://www.linkedin.com/in/saad-iqbal-ryerson/)
