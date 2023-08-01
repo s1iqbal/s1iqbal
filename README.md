@@ -6,11 +6,8 @@
 <p>I've been a problem-solving enthusiast since I can remember. In my spare time, I love learning and tutoring what I have learned to people seeking help at various communities.  I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a></p> 
 
 
-<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230"> 
-
-
-
 ## ⌨️ A bit more about me...
+<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230"> 
 
 ```javascript
 const saad_iqbal: UserInterface = {
@@ -25,6 +22,7 @@ const saad_iqbal: UserInterface = {
   interests: ["coding", "gaming", "football", "music", "gym"]
 }
 ```
+
 ---
 
 ## 💻 What I've worked with
