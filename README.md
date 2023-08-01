@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sal</h2>
+<h2> Hi, I'm Sal 👨‍💻</h2>
 <p>but my real name is Saad. I've been a problem-solving enthusiast since I can remember. In my spare time, I try to learn as much as I can. You can often find me chatting and helping like-minded members of various online communities.  I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a></p> 
 
 
@@ -9,7 +9,7 @@
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
 
 
-### A bit more about me...  
+## ⌨️ A bit more about me...
 
 ```javascript
 const saad_iqbal: UserInterface = {
