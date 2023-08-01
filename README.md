@@ -1,4 +1,4 @@
-<h2> Hi, I'm Saad<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Saad</h2>
 <img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="300">
 <p><em>Full Stack Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
@@ -21,6 +21,6 @@ const saad_iqbal = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a huge fan of talking about tech and connecting with like-minded people</b> so if you want to say <b>hi, I'll be happy to collaborate or talk!</b></em>
+<em><b>I am a huge fan of talking about tech and connecting with like-minded people</b> so if you want to say <b>hi, I'll be happy to collaborate or talk!</b></em>
 
 ---
