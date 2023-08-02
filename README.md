@@ -17,7 +17,7 @@ const saad: UserInterface = {
       backend: "Node, Nest.JS, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase"
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenges: ["Odin Project", "Full Stack Open", `Hackathons`],
+  challenges: ["Odin Project", "Full Stack Open", "Hackathons"],
   interests: ["coding", "gaming", "football", "music", "gym"]
 }
 ```
