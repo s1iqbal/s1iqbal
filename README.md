@@ -6,7 +6,7 @@
 
 <p>I love learning technologies across the entire stack and tutoring newer developers across many different communities who are currently learning these skills.  I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a>.</p>
 
-## ⌨️ A bit more about me ...
+## ⌨️ A bit more about me ... 
 
 ```javascript
 const saad: UserInterface = {
