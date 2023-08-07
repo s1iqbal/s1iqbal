@@ -436,5 +436,3 @@ const saad: UserInterface = {
     />
   </a>
 </p>
-
-
