@@ -4,7 +4,9 @@
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
 [![Website: Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square&logo=coffeescript&logoColor=white&link=https://saadiqbal.web.app/)](https://saadiqbal.ca/)
 
-<p>I love learning technologies across the entire stack and tutoring newer developers.  I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a>.</p>
+<p>I love learning technologies across the entire stack and tutoring newer developers.</p>
+<br />
+<p>I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a>.</p>
 
 ## ⌨️ A bit more about me ... 
 
