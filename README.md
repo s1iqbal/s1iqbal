@@ -1,4 +1,4 @@
-<h2> Hi, I'm Saad | Full Stack Engineer </h2>
+<h2> Hi, I'm Saad | Software Engineer </h2>
 
 [![Linkedin: s1iqbal](https://img.shields.io/badge/-saad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-iqbal-ryerson/)](https://www.linkedin.com/in/saad-iqbal-ryerson/)
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
@@ -6,21 +6,18 @@
 
 <p>I love learning technologies across the entire stack and tutoring newer developers.</p>
 <br />
-<p>I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.web.app/contact">connect</a>.</p>
+<p>I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.ca/contact">connect</a>.</p>
 
 ## ⌨️ A bit more about me ... 
 
 ```javascript
 const saad: UserInterface = {
-  pronouns: "he" | "him",
-  languages: ["Javascript", "Typescript", "HTML/CSS", "Golang", "Java", "English", "Urdu"],
-  tools: {
-      frontend: "React, Context, Redux, TailWind, S(CSS), Storybook, Backstage", //refer below for more!
-      backend: "Node, Nest.JS, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase"
+  "languages": ["Javascript", "Typescript", "HTML/CSS", "Golang", "GDScript", "Java", "English", "Urdu"],
+  "tools": {
+      "frontend": ["React, Context, Redux, TailWind, S(CSS), Storybook, Backstage"], //refer below for more!
+      "backend": ["Node, Nest.JS, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase"]
   },
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenges: ["Odin Project", "Full Stack Open", "Hackathons"],
-  interests: ["coding", "gaming", "football", "music", "gym"]
+  "interests": ["coding", "gaming", "football", "music", "gym"]
 }
 ```
  
@@ -85,14 +82,6 @@ const saad: UserInterface = {
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-      alt="cypress"
       width="40"
       height="40"
     />
@@ -213,14 +202,6 @@ const saad: UserInterface = {
       height="40"
     />
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
@@ -261,14 +242,6 @@ const saad: UserInterface = {
       height="40"
     />
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -289,14 +262,6 @@ const saad: UserInterface = {
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
       width="40"
       height="40"
     />
@@ -393,14 +358,6 @@ const saad: UserInterface = {
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
       width="40"
       height="40"
     />
