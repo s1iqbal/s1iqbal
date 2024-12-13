@@ -4,20 +4,17 @@
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
 [![Website: Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square&logo=coffeescript&logoColor=white&link=https://saadiqbal.web.app/)](https://saadiqbal.ca/)
 
-<p>I love learning technologies across the entire stack and tutoring newer developers.</p>
-<br />
-<p>I'm always open to new & enticing problems to solve so let’s <a href="https://saadiqbal.ca/contact">connect</a>.</p>
-
+=
 ## ⌨️ A bit more about me ... 
 
 ```javascript
 const saad: UserInterface = {
-  "languages": ["Javascript", "Typescript", "HTML/CSS", "Golang", "GDScript", "Java", "English", "Urdu"],
+  "languages": ["Javascript", "Typescript", "HTML/CSS", "Golang", "C++/GDScript", "Java", "PHP", "English", "Urdu"],
   "tools": {
-      "frontend": ["React, Context, Redux, TailWind, S(CSS), Storybook, Backstage"], //refer below for more!
+      "frontend": ["React, Context, Redux/MobX, TailWind, S(CSS), Storybook, Backstage", ], //refer below for more!
       "backend": ["Node, Golang, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase, VPS"]
   },
-  "interests": ["coding", "gaming", "football", "music", "gym"]
+  "interests": ["coding", "gaming", "sports", "music", "gym"]
 }
 ```
  
