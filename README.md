@@ -4,7 +4,7 @@
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
 [![Website: Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square&logo=coffeescript&logoColor=white&link=https://saadiqbal.web.app/)](https://saadiqbal.ca/)
 
-=
+I like to code, game, make music, and workout
 ## ⌨️ A bit more about me ... 
 
 ```javascript
