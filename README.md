@@ -10,7 +10,7 @@
 const saad: UserInterface = {
   "languages": ["Javascript", "Typescript", "HTML/CSS", "Golang", "C++/GDScript", "Java", "PHP", "English", "Urdu"],
   "tools": {
-      "frontend": ["React, Context, Redux/MobX, TailWind, S(CSS), Storybook, Backstage", ], //refer below for more!
+      "frontend": ["React, Context, Redux/MobX, TailWind, S(CSS), Storybook, Backstage", ],
       "backend": ["Node, Golang, Next.JS, Docker, Kubernetes, GCP, AWS, Firebase, VPS"]
   },
   "interests": ["coding", "gaming", "sports", "music", "gym"]
