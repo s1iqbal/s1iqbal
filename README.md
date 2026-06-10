@@ -2,6 +2,6 @@
 
 [![Linkedin: s1iqbal](https://img.shields.io/badge/-saad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-iqbal-ryerson/)](https://www.linkedin.com/in/saad-iqbal-ryerson/)
 [![GitHub s1iqbal](https://img.shields.io/github/followers/s1iqbal?label=follow&style=social)](https://github.com/s1iqbal)
-[![Website: Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square&logo=coffeescript&logoColor=white&link=https://saadiqbal.web.app/)](https://saadiqbal.ca/)
+[![Website: Portfolio](https://img.shields.io/badge/-portfolio-black?style=flat-square&logo=coffeescript&logoColor=white&link=(https://chord.siqbal.dev/)](https://chord.siqbal.dev/)
 
 ---
